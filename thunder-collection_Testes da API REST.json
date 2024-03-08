@@ -1,0 +1,51 @@
+{
+    "client": "Thunder Client",
+    "collectionName": "Testes da API REST",
+    "dateExported": "2024-03-08T14:08:16.264Z",
+    "version": "1.1",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "725152ee-ddd4-4a16-bd51-fb96898f6c9c",
+            "colId": "f5601601-06f2-4a10-94bd-51964c8bf999",
+            "containerId": "",
+            "name": "https://dummyjson.com/products",
+            "url": "https://dummyjson.com/products/101",
+            "method": "DELETE",
+            "sortNum": 10000,
+            "created": "2024-03-08T14:07:24.312Z",
+            "modified": "2024-03-08T14:07:24.312Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        },
+        {
+            "_id": "08ff2ce3-263c-4d50-b913-7e5371311a44",
+            "colId": "f5601601-06f2-4a10-94bd-51964c8bf999",
+            "containerId": "",
+            "name": "https://dummyjson.com/products",
+            "url": "https://dummyjson.com/products/add",
+            "method": "PUT",
+            "sortNum": 20000,
+            "created": "2024-03-08T14:07:28.456Z",
+            "modified": "2024-03-08T14:07:28.456Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        },
+        {
+            "_id": "ef4202bf-cecd-4115-8c03-723bdbac02ed",
+            "colId": "f5601601-06f2-4a10-94bd-51964c8bf999",
+            "containerId": "",
+            "name": "http://localhost:3000/produtos",
+            "url": "http://localhost:3000/produtos",
+            "method": "GET",
+            "sortNum": 30000,
+            "created": "2024-03-08T14:07:32.376Z",
+            "modified": "2024-03-08T14:07:32.376Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        }
+    ]
+}
